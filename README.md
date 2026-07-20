@@ -11,7 +11,7 @@ Easy to use
 Download or clone this project
 Install required libraries
 Run the file:
-python gui.py
+python scripts3.py
 
 🔑 Note
 This app uses an API key, so create a .env file and add your key:
